@@ -1,0 +1,2 @@
+# businessprognosing
+uni homework
